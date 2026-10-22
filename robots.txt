@@ -1,0 +1,5 @@
+# Open to all crawlers: search engines, link-preview bots and AI search.
+User-agent: *
+Allow: /
+
+Sitemap: https://thomasmwork.github.io/sitemap.xml
